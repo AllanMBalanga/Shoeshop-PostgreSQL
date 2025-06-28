@@ -1,4 +1,5 @@
 fastapi[all]
+SQLAlchemy
 psycopg2
 passlib[bcrypt]
 python-jose[cryptography]
