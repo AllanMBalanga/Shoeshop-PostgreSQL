@@ -22,10 +22,10 @@ Shoeshop database: Managing customer sales and repairs (ORMs)
 Make sure to install the following libraries before running the project:
 
 - fastapi
+- sqlalchemy
 - psycopg2
 - uvicorn
 - bcrypt
-- python-dotenv
 - pydantic
 - jwt
 
